@@ -1,0 +1,57 @@
+body{
+background: #D1F2EB   
+}
+
+.parone{
+	float:left;
+	width:40%;
+}
+.partwo{
+	float:right;
+	width:60%;
+}
+.pone{
+	float:left;
+	width:45%;
+	background: #ABEBC6;
+}
+#title{
+	text-align:center;
+}
+#mission{
+	text-align: center;
+	font-style:italic;
+	color: #566573  ;
+}
+#vision{
+	text-align: center;
+	font-style:italic;
+	color: #566573  ;}
+#serv{
+	text-align: center;
+	font-style:italic;
+	color: #566573  ;}
+
+table, th, td {
+    border: 1px solid black;
+}
+.ptwo{
+	float:left;
+	width:55%;
+	background: #F9E79F;
+}
+#title2{
+	text-align: center;
+}
+.ptwop1{
+	font:sans-serif;
+	font-size: 18px;
+}
+.ol{
+	color:#1A5276  ;
+}
+.ul{
+	background-color: #E5E7E9
+}
+}
+
